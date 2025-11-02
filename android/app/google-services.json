@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "887011330517",
+    "project_id": "companion-2o25",
+    "storage_bucket": "companion-2o25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887011330517:android:2a463380825c707638955c",
+        "android_client_info": {
+          "package_name": "com.example.companion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATv-2-1hpZsW6rA0URpipsLW_tc_9z3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887011330517:android:ae1c9fbe3f680de238955c",
+        "android_client_info": {
+          "package_name": "com.example.thecompanion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATv-2-1hpZsW6rA0URpipsLW_tc_9z3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887011330517:android:3da0c9e9dbe9233b38955c",
+        "android_client_info": {
+          "package_name": "com.example.thecompanion_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATv-2-1hpZsW6rA0URpipsLW_tc_9z3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
